@@ -1,2 +1,2 @@
 # Web Components (minimal JS - Separation of Concerns)
-Web Component with minimal JS. Demonstrating how to have complete separation of concerns. Allows CSS designers full control over delivered content. Including heuristics and layout (when, how, and where the content appears and disappears).  
+Minimal JS web component (no shadow DOM). Demonstrates complete Separation of Concerns between UI structure (HTML), heuristics (CSS), and data CRUD operations (JS). Allows CSS designers full control over content delivered to the GUI.
